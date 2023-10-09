@@ -21,8 +21,8 @@ export default function Index({ allPosts: { edges }, preview }) {
     <Layout preview={preview}>
       <Head>
         <title>Daily Express - Read the best everyday</title>
-        <link rel="shortcut icon" href="https://i0.wp.com/thesenholding.com/wp-content/uploads/Asset-4.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
-        <link rel="icon" href="https://i0.wp.com/thesenholding.com/wp-content/uploads/Asset-4.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+        <link rel="shortcut icon" href="https://i0.wp.com/apship.vn/wp-content/uploads/Asset-4.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+        <link rel="icon" href="https://i0.wp.com/apship.vn/wp-content/uploads/Asset-4.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
       </Head>
       <Header />
       <Intro />
@@ -63,7 +63,7 @@ export default function Index({ allPosts: { edges }, preview }) {
             <aside className="col-md-4">
               <div id="sidebar-right" className="mg-sidebar">
                 <div id="block-2" className="mg-widget widget_block widget_search">
-                  <form role="search" method="get" action="https://thesenholding.com/" className="wp-block-search__button-outside wp-block-search__text-button wp-block-search">
+                  <form role="search" method="get" action="https://apship.vn/" className="wp-block-search__button-outside wp-block-search__text-button wp-block-search">
                     <label htmlFor="wp-block-search__input-1" className="wp-block-search__label">Search</label>
                     <div className="wp-block-search__inside-wrapper ">
                       <input type="search" id="wp-block-search__input-1" className="wp-block-search__input wp-block-search__input" name="s" defaultValue="" placeholder="" required />
