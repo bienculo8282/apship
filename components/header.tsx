@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function Header() {
   return (
-    <div className="mg-nav-widget-area-back" style={{ backgroundImage: "url('https://thesenholding.com/wp-content/themes/newses/images/head-back.jpg');" }}>
+    <div className="mg-nav-widget-area-back" style={{ backgroundImage: "url('https://apship.vn/wp-content/themes/newses/images/head-back.jpg');" }}>
       <div className="overlay">
         <div className="inner" style={{ backgroundColor: "rgba(18,16,38,0.4)" }}>
           <div className="container">
@@ -10,10 +10,10 @@ export default function Header() {
               <div className="row align-items-center">
                 <div className="col-md-4 text-center-xs">
                   <span className="navbar-brand">
-                    <img width="80" height="80" src="https://i0.wp.com/thesenholding.com/wp-content/uploads/Asset-2.png?fit=80%2C80&amp;ssl=1" className="custom-logo" alt="" decoding="async" />
+                    <img width="80" height="80" src="https://i0.wp.com/apship.vn/wp-content/uploads/Asset-2.png?fit=80%2C80&amp;ssl=1" className="custom-logo" alt="" decoding="async" />
                   </span>
                   <div className="site-branding-text">
-                    <h1 className="site-title"><a href="https://thesenholding.com/" rel="home">Thesenholding</a></h1>
+                    <h1 className="site-title"><a href="https://apship.vn/" rel="home">apship.vn</a></h1>
                     <p className="site-description" style={{ color: "white" }}>Read the best everyday</p>
                   </div>
                 </div>
